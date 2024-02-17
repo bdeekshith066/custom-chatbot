@@ -23,6 +23,10 @@ To use the chatbot, simply run the provided Python script. The chatbot will prom
 
 Contributions to this project are welcome! If you have ideas for improving the chatbot's functionality, adding new features, or enhancing its performance, feel free to submit a pull request.
 
+### Author:
+
+Deekshith B
+
 ### License:
 
 This project is licensed under the [MIT License](LICENSE).
